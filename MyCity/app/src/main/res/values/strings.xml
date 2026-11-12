@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Кемерово</string>
+    <string name="categories_heading">Откройте лучшие места города</string>
+    <string name="back_button">Назад</string>
+    <string name="place_details_label">О месте</string>
+    <string name="place_address_label">Адрес</string>
+    <string name="place_phone_label">Телефон</string>
+    <string name="place_website_label">Сайт</string>
+    <string name="place_rating">Рейтинг: %1$s / 5</string>
+
+    <string name="category_restaurants">Рестораны</string>
+    <string name="category_parks">Парки</string>
+    <string name="category_coffee">Кофейни</string>
+    <string name="category_cinemas">Кинотеатры</string>
+    <string name="category_malls">Торговые центры</string>
+
+    <string name="place_twiany_restaurant_name">Твиани</string>
+    <string name="place_twiany_restaurant_description">Ресторан с уютной атмосферой и разнообразным меню. В заведении подают блюда европейской и итальянской кухни, включая пасту, пиццу, стейки и авторские десерты. Интерьер выполнен в современном стиле, есть отдельные зоны для романтических ужинов и бизнес-встреч. Персонал внимательный и профессиональный.</string>
+    <string name="place_twiany_restaurant_address">г. Кемерово, ул. Весенняя, 15</string>
+    <string name="place_twiany_restaurant_phone">+7 (3842) 55-12-34</string>
+    <string name="place_twiany_restaurant_website">https://twiany-kemerovo.ru</string>
+
+    <string name="place_hachapuri_mariko_name">Хачапури Марико</string>
+    <string name="place_hachapuri_mariko_description">Аутентичный ресторан грузинской кухни, где можно погрузиться в атмосферу гостеприимства и тепла Кавказа. В меню представлены традиционные грузинские блюда: хинкали, хачапури, шашлык, сациви, лобио и другие деликатесы. Особой гордостью ресторана являются фирменные соусы и свежая выпечка из дровяной печи. Интерьер оформлен в национальном грузинском стиле с элементами современного дизайна. Живая музыка по вечерам создает особую атмосферу.</string>
+    <string name="place_hachapuri_mariko_address">ул. Красноармейская, 144А</string>
+    <string name="place_hachapuri_mariko_phone">+7 (3842) 90-37-37</string>
+    <string name="place_hachapuri_mariko_website">vhachapuri.ru</string>
+
+    <string name="place_sadj_name">SADJ</string>
+    <string name="place_sadj_description">Ресторан восточной кухни с акцентом на традиционные блюда Средней Азии и Кавказа. В меню представлены ароматные пловы, сочные кебабы, самса из тандыра, манты и другие восточные деликатесы. Особенность заведения — использование оригинальных рецептов и свежих специй. Интерьер выполнен в восточном стиле с уютными диванами и низкими столиками, создавая атмосферу восточного гостеприимства. Идеальное место для любителей насыщенных вкусов и ароматов Востока.</string>
+    <string name="place_sadj_address">г. Кемерово, Весенняя улица, 21</string>
+    <string name="place_sadj_phone">+7 (905) 903-77-77</string>
+    <string name="place_sadj_website">https://sadj-kemerovo.ru/</string>
+
+    <string name="place_park_angelov_name">Парк Ангелов</string>
+    <string name="place_park_angelov_description">Главная идея парка – он должен стать местом памяти и местом силы. По замыслу архитектора дизайн парка – воплощение радости детства и единства с природой Кузбасса. Для этого здесь создан искусственный ландшафт, характерный для нашего края: холмы, которые служат защитой от шума города, огромные каменные валуны, имитирующие горный пейзаж. Посажены живые кустарники и деревья – представители сибирской тайги.</string>
+    <string name="place_park_angelov_address">пр. Ленина, 35</string>
+    <string name="place_park_angelov_website">park-angelov.ru</string>
+
+    <string name="place_park_zhukova_name">Парк Победы имени Жукова</string>
+    <string name="place_park_zhukova_description">Парк Победы имени Георгия Константиновича Жукова — это место, где история, природа и современность переплетаются в едином пространстве. Центральным элементом парка является монумент маршалу Жукову. Также здесь установлены памятники труженикам тыла и воинам-пограничникам, а выставка военной техники времён Великой Отечественной войны привлекает внимание детей и взрослых. Каждый экспонат снабжён табличкой с техническими характеристиками, что добавляет образовательный элемент.</string>
+    <string name="place_park_zhukova_address">ул. Мичурина, 20</string>
+
+    <string name="place_anton_name">Парк Антошка</string>
+    <string name="place_anton_description">Назван в честь установленного на территории в 1977 году авиапамятника — советского среднемагистрального пассажирского самолёта АН-10А («Антошка»).В парке есть аттракционы для всех возрастов, кафе, тиры, биллиардные столы. На набережной реки обитают голуби и утки, которые считаются визитной карточкой парка.</string>
+    <string name="place_anton_address">ул. Мичурина, 26</string>
+
+    <string name="place_port_coffee_name">Port Coffee</string>
+    <string name="place_port_coffee_description">Кофейня Port Coffee — это место, где вы можете насладиться ароматным кофе, вкусными десертами и приятной атмосферой. Здесь вы можете провести время в одиночестве или в компании друзей, а также посмотреть фильмы или мультфильмы. Интерьер кофейни выполнен в минималистичном стиле, что делает его еще более уютным.</string>
+    <string name="place_port_coffee_address">ул. Весенняя, 13</string>
+    <string name="place_port_coffee_phone">+7 (951) 579-40-91</string>
+    <string name="place_port_coffee_website">https://port.coffee/</string>
+
+    <string name="place_like_name">Coffee Like</string>
+    <string name="place_like_description">Популярная кофейня в Кемерово, известная своим качественным кофе, уютной атмосферой и внимательным сервисом. В заведении предлагают широкий выбор кофейных напитков от классического эспрессо до авторских рецептов, а также свежую выпечку, десерты и легкие закуски. Интерьер выполнен в современном стиле с комфортными местами для работы и отдыха. Идеальное место для утреннего кофе, деловых встреч или неспешного отдыха с книгой.</string>
+    <string name="place_like_address">г. Кемерово, ул. Весенняя, 12</string>
+    <string name="place_like_phone">+7 (3842) 33-44-55</string>
+    <string name="place_like_website">https://coffeelike-kemerovo.ru</string>
+
+    <string name="place_surf_name">Surf Coffee</string>
+    <string name="place_surf_description">Кофейня «По душам» — это уютное место, где можно насладиться ароматным кофе и вкусными десертами. Гости отмечают, что бариста прекрасно разбираются в сортах кофе и умеют приготовить латте с красивым латте-артом. Кроме того, посетители хвалят шаурму, которая здесь очень вкусная.</string>
+    <string name="place_surf_address">ул. Демьяна Бедного, 6</string>
+    <string name="place_surf_phone">+7 (923) 608-02-12</string>
+    <string name="place_surf_website">https://surfcoffee-kemerovo.ru</string>
+
+    <string name="place_ub_name">Кинотеатр Юбилейный</string>
+    <string name="place_ub_address">просп. Ленина, 91</string>
+    <string name="place_ub_phone">+7 (3842) 90-30-00</string>
+    <string name="place_ub_website">megakino42.ru</string>
+
+    <string name="place_starmax_name">Starmax Cinema</string>
+    <string name="place_starmax_address">Московский 19, ТРЦ Летосити, этаж 3</string>
+    <string name="place_starmax_phone">+7 (3842) 90-09-11</string>
+    <string name="place_starmax_website">starmaxcinema.ru</string>
+
+    <string name="place_kuzbasskino_name">Кузбасскино</string>
+    <string name="place_kuzbasskino_address">Советский просп., 4А</string>
+    <string name="place_kuzbasskino_phone">+7 (3842) 36-44-10</string>
+    <string name="place_kuzbasskino_website">kuzbasskino.ru</string>
+
+    <string name="place_letocity_name">Летосити</string>
+    <string name="place_letocity_address">Московский просп., 19</string>
+    <string name="place_letocity_phone">+7 (931) 779-25-43</string>
+    <string name="place_letocity_website">letocity.ru</string>
+
+    <string name="place_gr_name">Гринвич</string>
+    <string name="place_gr_address">Молодёжный просп., 2</string>
+
+    <string name="place_oblaka_name">Облака</string>
+    <string name="place_oblaka_address">Кузнецкий просп., 33/1</string>
+    <string name="place_oblaka_phone">+7‒905‒066‒72‒44</string>
+    <string name="place_oblaka_website">www.oblaka42.ru</string>
+</resources>
